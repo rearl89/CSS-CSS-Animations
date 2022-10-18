@@ -7,6 +7,8 @@
   width: 20%;
   margin: auto;
   display: inline-block;
+  transform: translate(145px);
+  opacity: 0.5;;
 }
 
 /****************************************
@@ -18,6 +20,7 @@
   width: 200px;
   height: 200px;
   filter: grayscale(100%);
+  transition: 
 
 }
 
